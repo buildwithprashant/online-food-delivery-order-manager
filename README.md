@@ -161,7 +161,7 @@ No server required for basic use — open the file directly:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/deliveriq.git
+gh repo clone buildwithprashant/online-food-delivery-order-manager
 cd deliveriq
 
 # Open in browser
